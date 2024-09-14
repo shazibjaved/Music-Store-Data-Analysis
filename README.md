@@ -6,8 +6,9 @@ This project involves analyzing music store data using **SQL** for querying and 
 * To create an interactive dashboard in Power BI to visualize key metrics.
 * To generate business insights like top-selling tracks, revenue per genre, and sales by country.
 # Tools Used
-SQL: For data extraction, cleaning, and analysis.
-Power BI: For creating interactive dashboards.
+SQL: For data extraction, cleaning, and analysis.  
+Power BI: For creating interactive dashboards.  
+
 # Files Included
 music_store_dashboard.pbix: The Power BI file containing the interactive dashboard.
 SQL Queries.sql: SQL queries used for analyzing the dataset and generating insights.
