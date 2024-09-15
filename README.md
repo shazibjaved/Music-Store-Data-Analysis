@@ -20,3 +20,10 @@ Top Tracks by Revenue: A chart showing the top tracks ranked by revenue.
 Genre Popularity: Bar charts and other visualizations to explore sales across different genres.  
 Sales by Country: A geographic breakdown of sales by billing country.  
 
+# Screenshots
+Here are a few screenshots of the dashboard:  
+![image](https://github.com/user-attachments/assets/1bce1c48-0f69-4eda-8a39-92dbdaa6177f)
+
+
+
+
