@@ -21,10 +21,7 @@ Genre Popularity: Bar charts and other visualizations to explore sales across di
 Sales by Country: A geographic breakdown of sales by billing country.  
 
 # Screenshots
-Here are a few screenshots of the dashboard: 
-![image](https://github.com/user-attachments/assets/1129f4a0-8988-4932-96a6-42a622f17761)  
-
-![image](https://github.com/user-attachments/assets/1bce1c48-0f69-4eda-8a39-92dbdaa6177f)
+Here are a few screenshots of the dashboard:
 
 
 
